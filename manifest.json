@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "لورم ایپسوم ساز فارسی",
     "manifest_version": 3,
-    "author": "Omid Mohamadi",
+    "author": "omidmmadi@gmail.com",
     "action":{
         "default_popup": "index.html",
         "default_title": "Persian Lorem Ipsum"
